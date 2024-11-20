@@ -1,4 +1,4 @@
-FROM ubuntu:16.04
+FROM ubuntu:xenial-20210114
 MAINTAINER Mischa ter Smitten <mtersmitten@oefenweb.nl>
 
 # python
